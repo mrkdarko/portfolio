@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to top, #485e73, #768fa5, #a4bdd9)
+  }
+
+#para{
+    font-size: 30px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-left: 20px;
+}
+
+#head{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 40px;
+}
+
+#all{
+  transform: translateY(20px);
+}

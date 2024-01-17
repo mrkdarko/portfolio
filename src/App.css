@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Salsa&display=swap");
+
+
+body {
+  background-image: linear-gradient(to top, #485e73, #768fa5, #a4bdd9)
+}
+
+
+#hello{
+  display: flex;
+  justify-content: center;
+  font-family: 'Salsa', cursive;
+}
+
+#all{
+  transform: translateY(20px);
+}
+
+
+#mypic{
+  display: flex;
+  max-width: 200px;
+  height: auto;
+  float: right;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+#par{
+  font-size: 40px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  margin-left: 20px;
+}
+
+#socials{
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 0 15px;
+  position: relative;
+  transform: translateY(70px);
+}
+
+#github{
+  border-radius: 50%;
+  transition: box-shadow 0.3s ease;
+}
+
+#github:hover{
+  box-shadow: 2px 2px 10px black;
+}
+
+#linkedin{
+  border-radius: 30%;
+  transition: box-shadow .3s ease;
+  filter: invert(1);
+}
+
+#linkedin:hover{
+  box-shadow: 2px 2px 10px white;
+}
+
+#projects{
+  list-style: square;
+}
