@@ -29,7 +29,7 @@ export default function Home(){
           <p class='intro'>
               <img src={image} alt="your image" id='mypic'/>
           <div id='par'>
-            I'm Kwabena, a Computer Science student at Columbia Universtiy.
+            I'm Kwabena, a Computer Science student at Columbia University.
             My major degree classes at the moment are Introduction to Computing (ENGI E1006) and Calculus I.
             My main technical skills are Programming (Python, HTML, CSS, React.js)
             where I love to develop both on the backend and frontend.
