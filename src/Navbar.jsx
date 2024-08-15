@@ -1,5 +1,5 @@
 import './Navbar.css'
-import resumePDF from './KwabenaGyasi_Darko Resume.pdf'
+import resumePDF from './Darko_Kwabena_Resume.pdf'
 
 function NavigationBar(){
     return(

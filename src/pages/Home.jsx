@@ -1,5 +1,5 @@
 import './Home.css'
-import image from "../web_photo.jpg"
+import image from "../web photo.jpg"
 import github from "../github_logo.png"
 import linkedin from "../linkedin.png"
 import React, {useState, useEffect} from 'react'
@@ -30,9 +30,8 @@ export default function Home(){
               <img src={image} alt="your image" id='mypic'/>
           <div id='par'>
             I'm Kwabena, a Computer Science student at Columbia University.
-            My major degree classes at the moment are Introduction to Computing (ENGI E1006) and Calculus I.
-            My main technical skills are Programming (Python, HTML, CSS, React.js)
-            where I love to develop both on the backend and frontend.
+            My major degree classes at the moment are Data Structures and Algorithms, Discrete Math and Calculus II.
+            My main programming skills include Python, Java, JavaScript, HTML, CSS, and I love to develop both on the backend and frontend.
           </div>
             </p>
       </main>
